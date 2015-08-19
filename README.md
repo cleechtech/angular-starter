@@ -8,6 +8,8 @@ use webpack and angular to use commonjs syntax, require files
 
 slides on commonjs and angular: http://www.slideshare.net/rsnapp/lazy-angular-w-webpack
 
+![](http://image.slidesharecdn.com/lazy-angular-150211103238-conversion-gate01/95/lazy-angular-w-webpack-6-638.jpg?cb=1423650832)
+
 Webpack + Angular + LumX tutorial code: https://github.com/ShMcK/WebpackAngularDemos
 
 es6 + angular + webpack: https://github.com/angular-class/NG6-starter
