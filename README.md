@@ -4,7 +4,9 @@
 
 ## Usage
 
-This project loads in dependencies via CDN. If you have an idea and want to write a quick angular app without a server, this is the project for you.
+- provides file structure
+- loads in dependencies
+- gulp starts web server
 
 ## Getting Started
 
@@ -16,7 +18,7 @@ $ npm install --global gulp
 $ gulp
 ```
 
-If you want an angular starter app without gulp try:
+angular starter app without gulp:
 
 ```sh
 $ git clone git@github.com:jasonshark/angular-starter.git
@@ -25,11 +27,3 @@ $ git reset --hard b58322df5b46b9f4ed53f2319a6f26b9b581749f
 ```
 
 This starts the website on **http://localhost:8080**
-
-### Issues
-
-If you have any issues getting started or want to help implement features there is an issue list [here](https://github.com/jasonshark/angular-starter/issues)
-
-## Contributing
-
-Workflow described in [CONTRIBUTING.md](CONTRIBUTING.md)
